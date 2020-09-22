@@ -36,12 +36,10 @@
 
 ---
 
-<details>
   <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="rondDev's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=rondDev&show_icons=true&hide_border=true" />
 
-</details>
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rondDev)](https://github.com/rondDev/)
 
