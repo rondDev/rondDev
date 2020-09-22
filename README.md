@@ -10,6 +10,8 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects & be more productive
 - ⚡ Fun fact: I love driving
 
+### Spotify Playing 🎧
+[<img src="https://spotify-snowy.vercel.app/" alt="rond Spotify Playing" width="350" />](https://open.spotify.com/user/1145054842)
 
 ### Connect with me:
 
