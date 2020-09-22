@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I love driving
 
 ### Spotify Playing 🎧
-[<img src="https://spotify-snowy.vercel.app/" alt="rond Spotify Playing" width="350" />](https://open.spotify.com/user/1145054842)
+[![Spotify](https://spotify-snowy.vercel.app/)](https://open.spotify.com/user/1145054842)
 
 ### Connect with me:
 
