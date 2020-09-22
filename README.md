@@ -6,12 +6,10 @@
 ## I'm a Developer!
 
 - 🌱 I’m currently trying to learn C++ 😅
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects & 
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 👯 I’m looking to collaborate with other content creators & developers
+- 🥅 2020 Goals: Contribute more to Open Source projects & be more productive
+- ⚡ Fun fact: I love driving
 
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="rond Spotify Playing" width="350" />](https://open.spotify.com/user/1145054842)
 
 ### Connect with me:
 
