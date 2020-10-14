@@ -14,7 +14,7 @@
 ### Spotify Playing 🎧
 [![Spotify](https://spotify-snowy.vercel.app/api/spotify)](https://open.spotify.com/user/1145054842)
 
-### Connect with me:
+### [Connect with me:][brave]
 
 [<img align="left" alt="rond.cc" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="rondYT | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -48,3 +48,4 @@
 [twitter]: https://twitter.com/rondDev
 [youtube]: https://youtube.com/rondYT
 [instagram]: https://instagram.com/rond.cc
+[brave]: https://brave.com/mtw104
