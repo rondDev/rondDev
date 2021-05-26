@@ -39,7 +39,7 @@
 ---
 
   <summary>:zap: Github Stats</summary>
-
+<br />
   <img align="left" alt="rondDev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rondDev&show_icons=true&hide_border=true&theme=radical" />
 
 
