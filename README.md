@@ -43,7 +43,7 @@
   <img align="left" alt="rondDev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rondDev&show_icons=true&hide_border=true&theme=radical" />
 
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rondDev)](https://github.com/rondDev/)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rondDev&theme=radical)](https://github.com/rondDev/)
 
 [website]: https://rond.cc
 [twitter]: https://twitter.com/rondDev
