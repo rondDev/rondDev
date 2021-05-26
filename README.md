@@ -11,7 +11,6 @@
 - 👯 I’m looking to collaborate with other content creators & developers
 - 🥅 2020 Goals: Contribute more to Open Source projects & be more productive
 - ⚡ Fun fact: I love driving
-- Browser: [Brave](https://brave.com/mtw104)
 
 ### Spotify Playing 🎧
 [![Spotify](https://spotify-snowy.vercel.app/api/spotify)](https://open.spotify.com/user/1145054842)
