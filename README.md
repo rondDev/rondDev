@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently trying to learn C++ 😅
 - 👯 I’m looking to collaborate with other content creators & developers
-- 🥅 2020 Goals: Contribute more to Open Source projects & be more productive
+- 🥅 2021 Goals: Contribute more to Open Source projects & be more productive
 - ⚡ Fun fact: I love driving
 
 ### Spotify Playing 🎧
