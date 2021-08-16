@@ -1,52 +1,50 @@
 ### Hi there, I'm rond - aka [rondDev][website] 👋
 
 [![Website](https://img.shields.io/website?label=rond.cc&style=for-the-badge&url=https%3A%2F%2Frond.cc)](https://rond.cc)
-[![Twitter Follow](https://img.shields.io/twitter/follow/rondDev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%rondDev&screen_name=rondDev)
 
-![Profile views](https://gpvc.arturio.dev/rondDev)
+<h1 align="center">Hi 👋, I'm rond</h1>
+<h3 align="center">A mildly lazy developer from Norway</h3>
 
-## I'm a Developer!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ronddev&label=Profile%20views&color=0e75b6&style=flat" alt="ronddev" /> </p>
 
-- 🌱 I’m currently trying to learn C++ 😅
-- 👯 I’m looking to collaborate with other content creators & developers
-- 🥅 2021 Goals: Contribute more to Open Source projects & be more productive
-- ⚡ Fun fact: I love driving
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ronddev" alt="ronddev" /></a> </p>
 
-### Spotify Playing 🎧
-[![Spotify](https://spotify-snowy.vercel.app/api/spotify)](https://open.spotify.com/user/1145054842)
+<p align="left"> <a href="https://twitter.com/ronddev" target="blank"><img src="https://img.shields.io/twitter/follow/ronddev?logo=twitter&style=for-the-badge" alt="ronddev" /></a> </p>
 
-### [Connect with me:][brave]
+- 🔭 I’m currently working on **private projects**
 
-[<img align="left" alt="rond.cc" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="rondYT | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="rondDev | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="rond.cc | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- 🌱 I’m currently learning **Go & JavaScript**
 
-<br />
+- 💬 Ask me about **C# .NET Framework**
 
-### Languages and Tools:
+- 📫 How to reach me **Discord: rond#8500**
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" />
-<img align="left" alt="C#" width="26px" src="https://camo.githubusercontent.com/8d56e87edf99e89bfc457cd62462e0b7aae19e6b197b1df5c542d474d8d76f81/68747470733a2f2f646576656c6f7065722e6665646f726170726f6a6563742e6f72672f7374617469632f6c6f676f2f6373686172702e706e67" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+- ⚡ Fun fact **I like driving 😍**
 
-<br />
-<br />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/ronddev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ronddev" height="30" width="40" /></a>
+<a href="https://dev.to/ronddev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ronddev" height="30" width="40" /></a>
+<a href="https://twitter.com/ronddev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ronddev" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14315714" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14315714" height="30" width="40" /></a>
+<a href="https://codesandbox.com/ronddev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="ronddev" height="30" width="40" /></a>
+<a href="https://instagram.com/rond.cc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rond.cc" height="30" width="40" /></a>
+<a href="https://medium.com/@ronddev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ronddev" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/rondyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rondyt" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/ronddev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ronddev" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ronddev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ronddev" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ronddev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ronddev" height="30" width="40" /></a>
+<a href="https://discord.gg/Klen2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Klen2002" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-  <summary>:zap: Github Stats</summary>
-<br />
-  <img align="left" alt="rondDev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rondDev&show_icons=true&hide_border=true&theme=radical" />
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/rond"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rond" /></a></p><br><br>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ronddev&show_icons=true&locale=en&layout=compact" alt="ronddev" /></p>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rondDev&theme=radical&hide_border=true)](https://github.com/rondDev/)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ronddev&show_icons=true&locale=en" alt="ronddev" /></p>
 
-[website]: https://rond.cc
-[twitter]: https://twitter.com/rondDev
-[youtube]: https://youtube.com/rondYT
-[instagram]: https://instagram.com/rond.cc
-[brave]: https://brave.com/mtw104
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ronddev&" alt="ronddev" /></p>
