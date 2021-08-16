@@ -24,6 +24,11 @@
 
 - ⚡ Fun fact **I like driving 😍**
 
+
+<p align="left"> <a href="https://open.spotify.com/user/1145054842" target="blank"><img src="https://spotify-snowy.vercel.app/api/spotify" alt="ronddev" /></a> </p>
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/ronddev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ronddev" height="30" width="40" /></a>
