@@ -9,7 +9,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ronddev" alt="ronddev" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ronddev" target="blank"><img src="https://img.shields.io/twitter/follow/ronddev?logo=twitter&style=for-the-badge" alt="ronddev" /></a> [![Website](https://img.shields.io/website?label=rond.cc&style=for-the-badge&url=https%3A%2F%2Frond.cc)](https://rond.cc)</p>
+<p align="left"> <a href="https://twitter.com/ronddev" target="blank"><img src="https://img.shields.io/twitter/follow/ronddev?logo=twitter&style=for-the-badge" alt="ronddev" /></a> </p>
+[![Website](https://img.shields.io/website?label=rond.cc&style=for-the-badge&url=https%3A%2F%2Frond.cc)](https://rond.cc)
 
 
 - 🔭 I’m currently working on **private projects**
