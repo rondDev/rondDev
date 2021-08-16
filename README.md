@@ -53,7 +53,7 @@
 <br>
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ronddev&show_icons=true&locale=en&layout=compact&theme=radical" alt="ronddev" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ronddev&show_icons=true&locale=en&layout=compact&theme=radical" alt="ronddev" />
 
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ronddev&show_icons=true&locale=en&theme=radical" alt="ronddev" />
 
