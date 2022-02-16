@@ -18,10 +18,8 @@
 
 - 📫 How to reach me **Discord: rond#8500**
 
-- ⚡ Fun fact **I like driving 😍**
 
-
-<p align="left"> <a href="https://open.spotify.com/user/1145054842" target="blank"><img src="https://spotify-snowy.vercel.app/api/spotify" alt="ronddev" /></a> </p>
+<p align="center"> <a href="https://open.spotify.com/user/1145054842" target="blank"><img src="https://spotify-snowy.vercel.app/api/spotify" alt="ronddev" /></a> </p>
 
 
 
