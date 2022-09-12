@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **private projects**
 
-- 🌱 I’m currently learning **Go & JavaScript**
+- 🌱 I’m currently learning **Rust**
 
 - 💬 Ask me about **C# .NET Framework**
 
