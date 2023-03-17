@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm rond</h1>
 <h3 align="center">A mildly lazy developer from Norway</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ronddev&label=Profile%20views&color=0e75b6&style=flat" alt="ronddev" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ronddev&label=Profile%20views&color=0e75b6&style=flat" alt="ronddev" /> </p> 
+
+[![committers.top badge](https://user-badge.committers.top/norway/rondDev.svg)](https://user-badge.committers.top/norway/rondDev)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ronddev&theme=radical" alt="ronddev" /></a> </p>
 
