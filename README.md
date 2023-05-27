@@ -111,13 +111,13 @@
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=ronddev&show_icons=true&count_private=true&hide_border=true" align="left" />  
+<div align='center'>
+<img src="https://github-readme-stats.vercel.app/api?username=rondDev&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true"/>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rondDev&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/></div>
 
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronddev&hide_border=true&layout=compact" align="right" /></div>  
 
-<br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=1145054842&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" /></div>  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=1145054842&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" /></div>
 
 <br/>  
 
@@ -139,7 +139,3 @@
                     align="left"
                 />
             </a></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
