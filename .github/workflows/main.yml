@@ -27,7 +27,7 @@ jobs:
           # Options
           user: rondDev
           template: classic
-          base: ""
+          base: "metadata"
           config_display: large
           config_timezone: Europe/Oslo
           plugin_achievements: yes
@@ -66,10 +66,6 @@ jobs:
           plugin_music_time_range: short
           plugin_music_top_type: tracks
           plugin_music_token: ${{ secrets.SPOTIFY_TOKEN }}
-          plugin_people: yes
-          plugin_people_limit: 24
-          plugin_people_size: 28
-          plugin_people_types: followers, following
           plugin_stars: yes
           plugin_stars_limit: 4
           plugin_wakatime: yes
