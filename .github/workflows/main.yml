@@ -27,7 +27,7 @@ jobs:
           # Options
           user: rondDev
           template: classic
-          base: "metadata"
+          base: metadata
           config_display: large
           config_timezone: Europe/Oslo
           plugin_achievements: yes
