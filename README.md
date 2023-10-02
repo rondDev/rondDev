@@ -30,7 +30,7 @@
 ## Github Stats  
 
 <picture>
-  <img src="https://github.com/rondDev/rondDev/github-metrics.svg" alt="Metrics">
+  <img src="/github-metrics.svg" alt="Metrics">
 </picture>
 
 <br/>  
