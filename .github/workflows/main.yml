@@ -79,4 +79,4 @@ jobs:
           plugin_wakatime_repositories_visibility: all
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_url: https://wakatime.com/api/v1/
-          prugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
