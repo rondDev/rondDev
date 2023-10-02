@@ -109,7 +109,9 @@
 
 ## Github Stats  
 
-![Metrics](https://metrics.lecoq.io/rondDev?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&lines=1&achievements=1&people=1&code=1&stars=1&music=1&wakatime=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=8&lines.history.limit=1&stars=false&stars.limit=4&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&code=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&music=false&music.provider=spotify&music.user=1145054842&music.mode=playlist&music.playlist=https%3A%2F%2Fopen.spotify.com%2Fplaylist%2F2GGO90OJUSmMoxdqMXD6LQ&music.limit=4&music.played.at=true&music.time.range=short&music.top.type=tracks&wakatime=false&wakatime.url=https%3A%2F%2Fwakatime.com&wakatime.user=rond&wakatime.sections=time%2C%20projects%2C%20projects-graphs%2C%20languages%2C%20languages-graphs%2C%20editors%2C%20os&wakatime.days=7&wakatime.limit=5&wakatime.languages.other=true&wakatime.repositories.visibility=all&config.timezone=Europe%2FOslo&config.display=large)
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
 
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=1145054842&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" /></div>
