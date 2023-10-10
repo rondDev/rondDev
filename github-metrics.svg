@@ -19,7 +19,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            259 Commits
+                            265 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -64,14 +64,14 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="744.975664362893" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="744.975664362893" y="0" width="57.317531392971866" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="802.2931957558649" y="0" width="44.24919692397547" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="846.5423926798404" y="0" width="25.60829358512606" height="8" fill="#012456"/>
-                    <rect mask="url(#languages-bar)" x="872.1506862649665" y="0" width="23.16567701742432" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="895.3163632823909" y="0" width="8.362211622700281" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="903.6785749050912" y="0" width="8.315195171809597" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="911.9937700769008" y="0" width="8.006229923099387" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="745.6600078054361" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="745.6600078054361" y="0" width="57.09342040515547" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="802.7534282105917" y="0" width="44.07618299626939" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="846.829611206861" y="0" width="25.508165407373472" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="872.3377766142345" y="0" width="23.075099446589725" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="895.4128760608243" y="0" width="8.329515456945263" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="903.7423915177695" y="0" width="8.28268283991826" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="912.0250743576878" y="0" width="7.97492564231225" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -130,7 +130,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 24 commits)</small>
+                    <small class="h-details">(computed from last 31 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -2206,7 +2206,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>numToStr/FTerm.nvim</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2263,7 +2263,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ray-x/lsp_signature.nvim</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">LSP signature hint as you type</div>
@@ -2870,7 +2870,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 685k out of 45.5m repositories</span>
+                                    <span class="gh">ranked 655k out of 46.4m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 38 stars</div>
                             </div>
@@ -2951,7 +2951,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.09m out of 45.5m repositories</span>
+                                    <span class="gh">ranked 3.06m out of 46.4m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
