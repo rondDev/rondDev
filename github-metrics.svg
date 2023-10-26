@@ -2322,7 +2322,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>edluffy/hologram.nvim</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">👻 A cross platform terminal image viewer for Neovim. Extensible and fast, written in Lua and C. Works on macOS and Linux.</div>
@@ -2375,7 +2375,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mrcjkb/haskell-tools.nvim</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Supercharge your Haskell experience in neovim!</div>
@@ -2861,7 +2861,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="7.010050251256281 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="7.788944723618091 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g fill="none" fill-rule="evenodd">
@@ -2879,7 +2879,7 @@
                                     <span class="prefix"></span>
                                     Follower
                                 </div>
-                                <div class="text">Following 10 users</div>
+                                <div class="text">Following 11 users</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -2915,7 +2915,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 651k out of 76.1m repositories</span>
+                                    <span class="gh">ranked 651k out of 71m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 41 stars</div>
                             </div>
@@ -2996,7 +2996,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.34m out of 76.1m repositories</span>
+                                    <span class="gh">ranked 3.34m out of 71m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
