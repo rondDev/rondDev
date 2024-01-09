@@ -19,7 +19,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            413 Commits
+                            414 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -64,14 +64,14 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="600.3196271017147" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="600.3196271017147" y="0" width="80.43948726485768" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="680.7591143665724" y="0" width="74.02696853670717" height="8" fill="#ff3e00"/>
-                    <rect mask="url(#languages-bar)" x="754.7860829032795" y="0" width="52.79507241551523" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="807.5811553187947" y="0" width="42.61861161977692" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="850.1997669385717" y="0" width="33.534210088230395" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="883.733977026802" y="0" width="19.041118694856003" height="8" fill="#012456"/>
-                    <rect mask="url(#languages-bar)" x="902.775095721658" y="0" width="17.22490427834193" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="593.4311763159166" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="593.4311763159166" y="0" width="79.51647321660147" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="672.947649532518" y="0" width="73.17753582358928" height="8" fill="#ff3e00"/>
+                    <rect mask="url(#languages-bar)" x="746.1251853561073" y="0" width="52.189268037899396" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="798.3144533940067" y="0" width="42.12957845236371" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="840.4440318463704" y="0" width="33.14941714559644" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="873.5934489919669" y="0" width="27.583922269384807" height="8" fill="#c065db"/>
+                    <rect mask="url(#languages-bar)" x="901.1773712613516" y="0" width="18.822628738648334" height="8" fill="#012456"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -112,15 +112,15 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#012456" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#c065db" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        PowerShell
+                        Emacs Lisp
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#178600" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#012456" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        C#
+                        PowerShell
                     </div>
                 </div>
             </section>
@@ -130,7 +130,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 11 commits)</small>
+                    <small class="h-details">(computed from last 12 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -2775,7 +2775,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 186k out of 45.9m repositories</span>
+                                    <span class="gh">ranked 186k out of 43.6m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 209 stars</div>
                             </div>
@@ -2980,7 +2980,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.36m out of 45.9m repositories</span>
+                                    <span class="gh">ranked 3.27m out of 43.6m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
