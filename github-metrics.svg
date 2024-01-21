@@ -19,7 +19,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            440 Commits
+                            442 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -64,14 +64,14 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="519.7408029902041" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="519.7408029902041" y="0" width="85.00482897889047" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="604.7456319690945" y="0" width="69.69784389228242" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="674.4434758613769" y="0" width="68.0520400867962" height="8" fill="#5e5086"/>
-                    <rect mask="url(#languages-bar)" x="742.4955159481731" y="0" width="64.14163332371719" height="8" fill="#ff3e00"/>
-                    <rect mask="url(#languages-bar)" x="806.6371492718903" y="0" width="45.744979743374266" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="852.3821290152646" y="0" width="38.561716858780585" height="8" fill="#4E9906"/>
-                    <rect mask="url(#languages-bar)" x="890.9438458740451" y="0" width="29.05615412595482" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="518.453237410072" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="518.453237410072" y="0" width="87.07338129496402" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="605.526618705036" y="0" width="69.52517985611512" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="675.051798561151" y="0" width="67.88345323741008" height="8" fill="#5e5086"/>
+                    <rect mask="url(#languages-bar)" x="742.9352517985611" y="0" width="63.98273381294965" height="8" fill="#ff3e00"/>
+                    <rect mask="url(#languages-bar)" x="806.9179856115107" y="0" width="45.631654676259" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="852.5496402877698" y="0" width="38.46618705035971" height="8" fill="#4E9906"/>
+                    <rect mask="url(#languages-bar)" x="891.0158273381294" y="0" width="28.984172661870506" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2203,7 +2203,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>LhKipp/nvim-nu</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Basic editor support for the nushell language</div>
@@ -2337,7 +2337,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        378
+                                        379
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2766,7 +2766,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 182k out of 54.5m repositories</span>
+                                    <span class="gh">ranked 182k out of 56.8m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 215 stars</div>
                             </div>
@@ -2971,7 +2971,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.34m out of 54.5m repositories</span>
+                                    <span class="gh">ranked 3.41m out of 56.8m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
