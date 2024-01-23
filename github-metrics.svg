@@ -160,7 +160,7 @@
                                 <div class="infos">
                                     <div class="name">POGSTAR - Nightcore Version</div>
                                     <div class="artist">SHARKFISH</div>
-                                    <div class="played-at">Played at 20:04:53 on 23 Jan 2024</div>
+                                    <div class="played-at">Played at 21:06:32 on 23 Jan 2024</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -168,7 +168,7 @@
                                 <div class="infos">
                                     <div class="name">Fashion Week</div>
                                     <div class="artist">lusttqwe</div>
-                                    <div class="played-at">Played at 20:03:43 on 23 Jan 2024</div>
+                                    <div class="played-at">Played at 21:05:22 on 23 Jan 2024</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -176,7 +176,7 @@
                                 <div class="infos">
                                     <div class="name">If You Can't Hang</div>
                                     <div class="artist">Sleeping With Sirens</div>
-                                    <div class="played-at">Played at 20:01:08 on 23 Jan 2024</div>
+                                    <div class="played-at">Played at 21:02:46 on 23 Jan 2024</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -184,7 +184,7 @@
                                 <div class="infos">
                                     <div class="name">Dandelions</div>
                                     <div class="artist">Ruth B.</div>
-                                    <div class="played-at">Played at 19:56:56 on 23 Jan 2024</div>
+                                    <div class="played-at">Played at 20:58:36 on 23 Jan 2024</div>
                                 </div>
                             </div>
                         </div>
@@ -2212,7 +2212,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fdncred/nu_plugin_file</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A nushell plugin that will inspect a file and return information based on it's magic number.</div>
@@ -2265,7 +2265,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fdncred/nu_plugin_regex</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2319,7 +2319,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nushell/tree-sitter-nu</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A tree-sitter grammar for nu-lang, the language of nushell</div>
@@ -2372,7 +2372,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ecthelionvi/NeoComposer.nvim</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Neovim plugin that simplifies macros, enhancing productivity with harmony.</div>
@@ -2765,7 +2765,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="35.53053053053053 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="35.995995995996 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -2788,9 +2788,9 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 172k out of 50.3m repositories</span>
+                                    <span class="gh">ranked 170k out of 52.5m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 230 stars</div>
+                                <div class="text">Maintaining a repository with 233 stars</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -2993,7 +2993,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.41m out of 50.3m repositories</span>
+                                    <span class="gh">ranked 3.23m out of 52.5m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
