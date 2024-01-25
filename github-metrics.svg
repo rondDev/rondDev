@@ -2194,7 +2194,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Hejsil/zig-clap</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Simple command line argument parsing library</div>
@@ -2247,7 +2247,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pbui-project/pbui-main</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The main repository for the PBUI project</div>
@@ -2300,7 +2300,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mitchellh/libxev</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">libxev is a cross-platform, high-performance event loop that provides abstractions for non-blocking IO, timers, events, and more and works on Linux (io_uring or epoll), macOS (kqueue), and Wasm + WASI. Available as both a Zig and C API.</div>
@@ -2353,7 +2353,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fubark/cyber</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fast and concurrent scripting.</div>
@@ -2696,7 +2696,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 3.95m out of 128m users</span>
+                                    <span class="gh">ranked 3.95m out of 130m users</span>
                                 </div>
                                 <div class="text">Published 15 public repositories</div>
                             </div>
@@ -2769,7 +2769,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 158k out of 52.9m repositories</span>
+                                    <span class="gh">ranked 158k out of 55.1m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 255 stars</div>
                             </div>
@@ -2893,7 +2893,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 1.05m out of 128m users</span>
+                                    <span class="gh">ranked 1.05m out of 130m users</span>
                                 </div>
                                 <div class="text">Followed by 13 users</div>
                             </div>
@@ -2974,7 +2974,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.40m out of 52.9m repositories</span>
+                                    <span class="gh">ranked 3.21m out of 55.1m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
