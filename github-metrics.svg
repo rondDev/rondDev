@@ -19,7 +19,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            447 Commits
+                            449 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2193,7 +2193,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Hejsil/zig-clap</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Simple command line argument parsing library</div>
@@ -2246,7 +2246,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pbui-project/pbui-main</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The main repository for the PBUI project</div>
@@ -2299,7 +2299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mitchellh/libxev</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">libxev is a cross-platform, high-performance event loop that provides abstractions for non-blocking IO, timers, events, and more and works on Linux (io_uring or epoll), macOS (kqueue), and Wasm + WASI. Available as both a Zig and C API.</div>
@@ -2352,7 +2352,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fubark/cyber</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fast and concurrent scripting.</div>
@@ -2768,7 +2768,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 157k out of 54.3m repositories</span>
+                                    <span class="gh">ranked 157k out of 47.5m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 258 stars</div>
                             </div>
@@ -2973,7 +2973,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.42m out of 54.3m repositories</span>
+                                    <span class="gh">ranked 3.41m out of 47.5m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
