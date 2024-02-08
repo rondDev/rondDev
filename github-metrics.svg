@@ -19,7 +19,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            535 Commits
+                            537 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -64,14 +64,14 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="743.5117432830126" height="8" fill="#c065db"/>
-                    <rect mask="url(#languages-bar)" x="743.5117432830126" y="0" width="68.70304223129102" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="812.2147855143037" y="0" width="52.275493990916075" height="8" fill="#ec915c"/>
-                    <rect mask="url(#languages-bar)" x="864.4902795052197" y="0" width="17.737419492469687" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="882.2276989976895" y="0" width="10.45707854836804" height="8" fill="#ff3e00"/>
-                    <rect mask="url(#languages-bar)" x="892.6847775460575" y="0" width="9.198223935651498" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="901.883001481709" y="0" width="9.135976021186305" height="8" fill="#4E9906"/>
-                    <rect mask="url(#languages-bar)" x="911.0189775028953" y="0" width="8.98102249710476" height="8" fill="#5e5086"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="743.3994550302741" height="8" fill="#c065db"/>
+                    <rect mask="url(#languages-bar)" x="743.3994550302741" y="0" width="68.6926664105462" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="812.0921214408203" y="0" width="52.267599127204356" height="8" fill="#ec915c"/>
+                    <rect mask="url(#languages-bar)" x="864.3597205680247" y="0" width="17.734740713202388" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="882.0944612812272" y="0" width="10.594441523953988" height="8" fill="#ff3e00"/>
+                    <rect mask="url(#languages-bar)" x="892.6889028051811" y="0" width="9.196834781406977" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="901.8857375865881" y="0" width="9.134596267882143" height="8" fill="#4E9906"/>
+                    <rect mask="url(#languages-bar)" x="911.0203338544702" y="0" width="8.979666145529798" height="8" fill="#5e5086"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -130,7 +130,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 28 commits)</small>
+                    <small class="h-details">(computed from last 30 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -2277,7 +2277,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nushell/awesome-nu</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A curated list of awesome tools that work within the nu language ecosystem e.g. nushell, scripts, nana, etc.</div>
@@ -2758,7 +2758,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 152k out of 68m repositories</span>
+                                    <span class="gh">ranked 152k out of 68.6m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 268 stars</div>
                             </div>
@@ -2998,7 +2998,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.42m out of 68m repositories</span>
+                                    <span class="gh">ranked 3.42m out of 68.6m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
