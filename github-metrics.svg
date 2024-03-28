@@ -2222,7 +2222,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>casouri/eldoc-box</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">childframe doc for eglot and anything that uses eldoc</div>
@@ -2269,7 +2269,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rustdesk/rustdesk</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An open-source remote desktop, and alternative to TeamViewer.</div>
@@ -2322,7 +2322,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>89luca89/distrobox</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at: https://gitlab.com/89luca89/distrobox</div>
@@ -2586,7 +2586,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="32.018480492813126 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="32.103353867214224 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2756,7 +2756,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 137k out of 79.6m repositories</span>
+                                    <span class="gh">ranked 137k out of 64.2m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 308 stars</div>
                             </div>
@@ -2996,7 +2996,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.46m out of 79.6m repositories</span>
+                                    <span class="gh">ranked 3.46m out of 64.2m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
