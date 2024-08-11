@@ -2231,7 +2231,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>DioxusLabs/manganis</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An asset system for the Rust ecosystem</div>
@@ -2278,7 +2278,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nanostores/nanostores</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A tiny (286 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores</div>
@@ -2481,8 +2481,13 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">rustlings</span>
-                                <div class="bar" style="width: 80%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">100%</span>
+                                <div class="bar" style="width: 40.647999999999996%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">51%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">killjoy</span>
+                                <div class="bar" style="width: 39.352000000000004%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">49%</span>
                             </div>
                         </div>
                     </section>
@@ -2713,7 +2718,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 90.1k out of 214m repositories</span>
+                                    <span class="gh">ranked 90.1k out of 216m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 524 stars</div>
                             </div>
@@ -2992,7 +2997,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.56m out of 214m repositories</span>
+                                    <span class="gh">ranked 3.56m out of 216m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
