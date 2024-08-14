@@ -1,8 +1,5 @@
 ### <div align="center">I'm rond, attempting to become a full-stack developer 🚀</div>  
-  
 
-- 🔭 I’m currently working on [Improving GitHub Commits](https://github.com/rondDev)  
-  
 
 - 🌱 I’m currently improving my Rust skills
   
