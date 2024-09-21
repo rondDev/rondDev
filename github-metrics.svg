@@ -2228,7 +2228,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>noctuid/general.el</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">More convenient key definitions in emacs</div>
@@ -2281,7 +2281,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>noctuid/annalist.el</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Record and display information such as keybindings</div>
@@ -2334,7 +2334,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>alphapapa/org-ql</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A searching tool for Org-mode, including custom query languages, commands, saved searches and agenda-like views, etc.</div>
@@ -2598,7 +2598,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="62.67898699520875 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="62.763860369609844 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2722,7 +2722,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 81.7k out of 214m repositories</span>
+                                    <span class="gh">ranked 81.7k out of 217m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 591 stars</div>
                             </div>
@@ -3002,7 +3002,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.59m out of 214m repositories</span>
+                                    <span class="gh">ranked 3.59m out of 217m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
