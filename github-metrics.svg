@@ -2203,7 +2203,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>radian-software/straight.el</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🍀 Next-generation, purely functional package manager for the Emacs hacker.</div>
@@ -2256,7 +2256,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>asdf-vm/asdf-plugins</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Convenience shortname repository for asdf community plugins</div>
@@ -2309,7 +2309,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>asdf-vm/asdf</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Extendable version manager with support for Ruby, Node.js, Elixir, Erlang &amp; more</div>
@@ -2362,7 +2362,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tabfugnic/asdf.el</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Emacs library to manage asdf</div>
@@ -2531,7 +2531,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="138.23933333333335 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="138.74566666666666 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -2554,9 +2554,9 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     maintainer
-                                    <span class="gh">ranked 1.17k out of 206m repositories</span>
+                                    <span class="gh">ranked 1.17k out of 220m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 23378 stars</div>
+                                <div class="text">Maintaining a repository with 23427 stars</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -3006,7 +3006,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.68m out of 206m repositories</span>
+                                    <span class="gh">ranked 3.68m out of 220m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
