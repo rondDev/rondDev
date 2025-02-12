@@ -2219,7 +2219,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>orogene/orogene</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Makes `node_modules/` happen. Fast. No fuss.</div>
@@ -2272,7 +2272,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nushell/nu_scripts</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A place to share Nushell scripts with each other</div>
@@ -2325,7 +2325,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nushell/awesome-nu</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A curated list of awesome tools that work within the nu language ecosystem e.g. nushell, scripts, nana, etc.</div>
@@ -2378,7 +2378,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nyoom-engineering/nyoom.nvim</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Neovim framework and doom emacs alternative for the stubborn martian hacker. Powered by fennel and the oxocarbon theme</div>
@@ -2557,7 +2557,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="170.28300000000002 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="170.41733333333332 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -2580,9 +2580,9 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     maintainer
-                                    <span class="gh">ranked 943 out of 230m repositories</span>
+                                    <span class="gh">ranked 943 out of 231m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 26479 stars</div>
+                                <div class="text">Maintaining a repository with 26492 stars</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -2627,7 +2627,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="64.54620123203286 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="62 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -3032,7 +3032,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.70m out of 230m repositories</span>
+                                    <span class="gh">ranked 3.70m out of 231m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
