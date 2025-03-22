@@ -2234,7 +2234,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cmackenzie1/torii-rs</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Torii is a powerful authentication framework for Rust applications that gives you complete control over your users' data.</div>
@@ -2287,7 +2287,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bknd-io/bknd</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Lightweight Firebase/Supabase alternative built to run anywhere — incl. Next.js, Remix, Astro, Cloudflare, Bun, Node, AWS Lambda &amp; more.</div>
@@ -2340,7 +2340,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pteroctopus/faster.nvim</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Some Neovim plugins and features can make Neovim slow when editing big files and executing macros. Faster.nvim will selectively disable some features when big file is opened or macro is executed.</div>
@@ -2530,7 +2530,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="62.50924024640656 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="62.59411362080766 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2809,7 +2809,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 317k out of 235m repositories</span>
+                                    <span class="gh">ranked 317k out of 228m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 132 stars</div>
                             </div>
@@ -2973,7 +2973,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.74m out of 235m repositories</span>
+                                    <span class="gh">ranked 3.74m out of 228m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
