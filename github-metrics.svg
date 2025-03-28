@@ -2195,6 +2195,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-6.8, 10)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -2216,7 +2221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SigNoz/signoz</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) &amp; Observability tool</div>
@@ -2269,7 +2274,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nektos/act</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Run your GitHub Actions locally 🚀</div>
@@ -2322,7 +2327,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nocodb/nocodb</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🔥 🔥 🔥 Open Source Airtable Alternative</div>
@@ -2375,7 +2380,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>deployn/astro-deploy</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A custom Astro.js template</div>
@@ -2797,7 +2802,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 317k out of 235m repositories</span>
+                                    <span class="gh">ranked 317k out of 239m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 132 stars</div>
                             </div>
@@ -2961,7 +2966,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.74m out of 235m repositories</span>
+                                    <span class="gh">ranked 3.74m out of 239m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
