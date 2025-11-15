@@ -7,19 +7,6 @@
 - ❓ Ask me about anything, I know a bit of everything
   
 
-<br/>  
-
-
-## My Skill Set  
-<table align="center"><tr>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ae,cs,css,discord,emacs,express,figma,github,html,ai,js,linux,lua,md,mongodb,neovim,nextjs,nodejs,ps,postgres,pr,prisma,py,react,regex,rust,svelte,tailwind,ts,zig" />
-  </a>
-</p>
-
-</tr></table>
 
 <br/>  
 
